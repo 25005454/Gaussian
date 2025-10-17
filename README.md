@@ -30,8 +30,6 @@ Initialize: x[i]=a[i][n] Subtract the known values: x[i]=x[i]−a[i][j]⋅x[j]fo
 ### Step 4: Output the Solution
 Print each variable x[i] with two decimal places.
 
-3. 
-4. 
 
 ## Program:
 ```
@@ -82,8 +80,6 @@ RegisterNumber: 25005454
 */
 ## Output:
 ![Screenshot 2025-04-26 113926](https://github.com/user-attachments/assets/0b97b3c2-59db-4052-bcb1-80cbe32df3f2)
-
-
 
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
